@@ -15,7 +15,7 @@ This project is being built step by step with clean code, beginner-friendly expl
 ## 🚀 Technologies
 
 - HTML5
-- CSS3
+- CSS3 (Custom Reset)
 - JavaScript (ES6 Modules)
 - Git
 - GitHub
@@ -43,8 +43,8 @@ Neurovia/
 - ✅ Project created
 - ✅ Folder structure created
 - ✅ README.md
-- ⏳ index.html
-- ⬜ CSS
+- ✅ index.html
+- ⏳ CSS
 - ⬜ JavaScript
 
 ---
