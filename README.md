@@ -28,7 +28,9 @@ This project is being built step by step with clean code, beginner-friendly expl
 Neurovia/
 ├── assets/
 ├── css/
-│   └── style.css
+│   ├── reset.css
+│   ├── style.css
+│   └── variables.css
 ├── js/
 │   └── app.js
 ├── .gitignore
@@ -44,7 +46,7 @@ Neurovia/
 - ✅ Folder structure created
 - ✅ README.md
 - ✅ index.html
-- ⏳ CSS
+- ✅ CSS Foundation
 - ⬜ JavaScript
 
 ---
